@@ -3,7 +3,7 @@ Contributors: pepijndevos, pfefferle
 Tags: social network, ostatus, federated, bundle
 Requires at least: 2.9
 Tested up to: 3.1
-Stable tag: 1.2
+Stable tag: 1.2.1
 
 A bundle of plugins that turn your blog into your private federated social network.
 
@@ -37,6 +37,8 @@ The plugin requires:
 yes please!
 
 == Changelog ==
+= 1.2.1 =
+* some small fixes
 = 1.2 =
 * WordPress 3.1 support
 = 1.1 =
